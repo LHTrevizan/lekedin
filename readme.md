@@ -2,7 +2,7 @@ Lekedin
 
 Como executar:
 
-Dentro da pasta do projeto, rodar
+Dentro da pasta do src -> main -> java -> lekefinApplication, rodar
 mvnw spring-boot:run. 
 
 Há a documentação para o swagger: 
