@@ -2,7 +2,7 @@ Lekedin
 
 Como executar:
 
-Dentro da pasta do src -> main -> java -> lekefinApplication, rodar
+Dentro da pasta do src -> main -> java/com/let/trevizan/lekedin -> lekedinApplication, rodar
 mvnw spring-boot:run. 
 
 Há a documentação para o swagger: 
